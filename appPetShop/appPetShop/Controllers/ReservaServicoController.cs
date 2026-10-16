@@ -48,28 +48,59 @@ namespace appPetShop.Controllers
         }
 
         // GET: ReservaServico/Create
-        public IActionResult Create()
+        [HttpGet]
+        public async Task<IActionResult> Create()
         {
-            ViewData["ClienteId"] = new SelectList(_context.Clientes, "Codigo", "Codigo");
-            ViewData["VeterinarioId"] = new SelectList(_context.Veterinarios, "Codigo", "Codigo");
+            ViewData["ClienteId"] = new SelectList(
+                await _context.Clientes.ToListAsync(),
+                "Codigo",
+                "Nome"
+            );
+
+            ViewData["VeterinarioId"] = new SelectList(
+                await _context.Veterinarios.ToListAsync(),
+                "Codigo",
+                "Nome"
+            );
+
             return View();
         }
+
 
         // POST: ReservaServico/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Codigo,DataHora,Valor,StatusServico,ClienteId,VeterinarioId")] ReservaServico reservaServico)
+        public async Task<IActionResult> Create(
+     [Bind("Codigo,DataHora,Valor,StatusServico,ClienteId,VeterinarioId")]
+    ReservaServico reservaServico)
         {
+            ModelState.Remove(nameof(ReservaServico.Cliente));
+            ModelState.Remove(nameof(ReservaServico.Veterinario));
+
             if (ModelState.IsValid)
             {
-                _context.Add(reservaServico);
+                _context.ReservaServicos.Add(reservaServico);
                 await _context.SaveChangesAsync();
+
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["ClienteId"] = new SelectList(_context.Clientes, "Codigo", "Codigo", reservaServico.ClienteId);
-            ViewData["VeterinarioId"] = new SelectList(_context.Veterinarios, "Codigo", "Codigo", reservaServico.VeterinarioId);
+
+            ViewData["ClienteId"] = new SelectList(
+                await _context.Clientes.ToListAsync(),
+                "Codigo",
+                "Nome",
+                reservaServico.ClienteId
+            );
+
+            ViewData["VeterinarioId"] = new SelectList(
+                await _context.Veterinarios.ToListAsync(),
+                "Codigo",
+                "Nome",
+                reservaServico.VeterinarioId
+            );
+
             return View(reservaServico);
         }
 
