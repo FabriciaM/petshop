@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAE3B1B-E2DB-44A1-A9F0-6F1300BD255E}|appPetShop\\appPetShop.csproj|c:\\users\\aluno.senai\\documents\\petshop\\apppetshop\\apppetshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EAE3B1B-E2DB-44A1-A9F0-6F1300BD255E}|appPetShop\\appPetShop.csproj|solutionrelative:apppetshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAE3B1B-E2DB-44A1-A9F0-6F1300BD255E}|appPetShop\\appPetShop.csproj|c:\\users\\aluno.senai\\documents\\petshop\\apppetshop\\apppetshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EAE3B1B-E2DB-44A1-A9F0-6F1300BD255E}|appPetShop\\appPetShop.csproj|solutionrelative:apppetshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAE3B1B-E2DB-44A1-A9F0-6F1300BD255E}|appPetShop\\appPetShop.csproj|c:\\users\\aluno.senai\\documents\\petshop\\apppetshop\\apppetshop\\controllers\\reservaservicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EAE3B1B-E2DB-44A1-A9F0-6F1300BD255E}|appPetShop\\appPetShop.csproj|solutionrelative:apppetshop\\controllers\\reservaservicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAE3B1B-E2DB-44A1-A9F0-6F1300BD255E}|appPetShop\\appPetShop.csproj|c:\\users\\aluno.senai\\documents\\petshop\\apppetshop\\apppetshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EAE3B1B-E2DB-44A1-A9F0-6F1300BD255E}|appPetShop\\appPetShop.csproj|solutionrelative:apppetshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAE3B1B-E2DB-44A1-A9F0-6F1300BD255E}|appPetShop\\appPetShop.csproj|c:\\users\\aluno.senai\\documents\\petshop\\apppetshop\\apppetshop\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EAE3B1B-E2DB-44A1-A9F0-6F1300BD255E}|appPetShop\\appPetShop.csproj|solutionrelative:apppetshop\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAE3B1B-E2DB-44A1-A9F0-6F1300BD255E}|appPetShop\\appPetShop.csproj|c:\\users\\aluno.senai\\documents\\petshop\\apppetshop\\apppetshop\\controllers\\veterinariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EAE3B1B-E2DB-44A1-A9F0-6F1300BD255E}|appPetShop\\appPetShop.csproj|solutionrelative:apppetshop\\controllers\\veterinariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAE3B1B-E2DB-44A1-A9F0-6F1300BD255E}|appPetShop\\appPetShop.csproj|c:\\users\\aluno.senai\\documents\\petshop\\apppetshop\\apppetshop\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EAE3B1B-E2DB-44A1-A9F0-6F1300BD255E}|appPetShop\\appPetShop.csproj|solutionrelative:apppetshop\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\Models\\DbPetShopContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appPetShop\\Models\\DbPetShopContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAE3B1B-E2DB-44A1-A9F0-6F1300BD255E}|appPetShop\\appPetShop.csproj|c:\\users\\aluno.senai\\documents\\petshop\\apppetshop\\apppetshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EAE3B1B-E2DB-44A1-A9F0-6F1300BD255E}|appPetShop\\appPetShop.csproj|solutionrelative:apppetshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "appPetShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "appPetShop\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-16T17:46:11.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "appPetShop\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "appPetShop\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T17:40:13.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "appPetShop\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "appPetShop\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T17:39:38.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VeterinarioController.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\Controllers\\VeterinarioController.cs",
+              "RelativeDocumentMoniker": "appPetShop\\Controllers\\VeterinarioController.cs",
+              "ToolTip": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\Controllers\\VeterinarioController.cs",
+              "RelativeToolTip": "appPetShop\\Controllers\\VeterinarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T17:38:18.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservaServicoController.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\Controllers\\ReservaServicoController.cs",
+              "RelativeDocumentMoniker": "appPetShop\\Controllers\\ReservaServicoController.cs",
+              "ToolTip": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\Controllers\\ReservaServicoController.cs",
+              "RelativeToolTip": "appPetShop\\Controllers\\ReservaServicoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T17:37:49.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\Program.cs",
+              "RelativeDocumentMoniker": "appPetShop\\Program.cs",
+              "ToolTip": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\Program.cs",
+              "RelativeToolTip": "appPetShop\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T17:34:37.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "appPetShop\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "appPetShop\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T17:36:26.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbPetShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\Models\\DbPetShopContext.cs",
+              "RelativeDocumentMoniker": "appPetShop\\Models\\DbPetShopContext.cs",
+              "ToolTip": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\Models\\DbPetShopContext.cs",
+              "RelativeToolTip": "appPetShop\\Models\\DbPetShopContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T17:34:02.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\appsettings.json",
+              "RelativeDocumentMoniker": "appPetShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\appsettings.json",
+              "RelativeToolTip": "appPetShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-16T17:32:58.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
