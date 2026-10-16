@@ -74,8 +74,7 @@
               "RelativeToolTip": "appPetShop\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAJ4BAAAAAAAAAAAmwMUBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-10-16T18:49:45.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T18:49:45.252Z"
             },
             {
               "$type": "Document",
@@ -143,8 +142,8 @@
               "Title": "VeterinarioController.cs",
               "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\Controllers\\VeterinarioController.cs",
               "RelativeDocumentMoniker": "appPetShop\\Controllers\\VeterinarioController.cs",
-              "ToolTip": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\Controllers\\VeterinarioController.cs*",
-              "RelativeToolTip": "appPetShop\\Controllers\\VeterinarioController.cs*",
+              "ToolTip": "C:\\Users\\aluno.senai\\Documents\\petshop\\appPetShop\\appPetShop\\Controllers\\VeterinarioController.cs",
+              "RelativeToolTip": "appPetShop\\Controllers\\VeterinarioController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-16T17:38:18.263Z",
@@ -160,8 +159,7 @@
               "RelativeToolTip": "appPetShop\\Controllers\\ReservaServicoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T17:37:49.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T17:37:49.562Z"
             },
             {
               "$type": "Document",
